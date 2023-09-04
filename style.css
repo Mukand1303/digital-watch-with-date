@@ -1,0 +1,29 @@
+body { 
+    background: wheat;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.time { 
+  margin:100px auto;
+    background: black;
+    color: #fff;
+    border: 7px solid antiquewhite;
+    padding: 8px;
+    text-align: center;
+    width: 500px;
+}
+.hms {
+    font-size: 68pt;
+    font-weight: 200;
+}
+.ampm {
+    font-size: 22pt;
+}
+.date {
+    font-size: 15px;
+}
